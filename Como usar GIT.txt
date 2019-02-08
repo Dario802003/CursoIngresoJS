@@ -1,0 +1,22 @@
+
+--- clonar  ----
+
+ git clone ruta_de_la_archivo
+
+luego 
+
+cd --> presionar tab
+
+
+---- actualiza los cambios -----------
+
+git add .
+
+------ actualizar comentario ----
+
+git commint -m "comentario comente"
+
+---- Subir a la nube -------
+
+git push
+
