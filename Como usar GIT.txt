@@ -14,9 +14,12 @@ git add .
 
 ------ actualizar comentario ----
 
-git commint -m "comentario comente"
+git commit -m "comentario comente"
 
 ---- Subir a la nube -------
 
 git push
 
+---
+
+  git status 
